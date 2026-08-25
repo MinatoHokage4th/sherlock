@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -17,10 +16,9 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Minecraft
+LiveJournal
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
