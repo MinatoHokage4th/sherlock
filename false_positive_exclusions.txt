@@ -1,9 +1,12 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
+Archive of Our Own
 Archive.org
 Bandcamp
+Carrd
 Championat
 Chatujme.cz
 ChaturBate
@@ -22,7 +25,6 @@ Minecraft
 Odysee
 PCGamer
 Pornhub
-Rarible
 Realmeye
 Reddit
 Replit.com
@@ -33,7 +35,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
