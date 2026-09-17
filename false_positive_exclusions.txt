@@ -19,7 +19,6 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Lobsters
 Minecraft
 ObservableHQ
 Odysee
