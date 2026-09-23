@@ -5,7 +5,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -13,13 +12,15 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
+Forum Ophilia
 GeeksforGeeks
 Giphy
 Hashnode
 Houzz
 Hubski
 Instapaper
-Mydramalist
+Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -34,7 +35,7 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
+Tenor
 Trovo
 TryHackMe
 Velomania
