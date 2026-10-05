@@ -2,9 +2,10 @@
 Airliners
 Apple Developer
 Apple Discussions
+Archive of Our Own
 Archive.org
 Bandcamp
-CGTrader
+Blogger
 Championat
 Chatujme.cz
 ChaturBate
@@ -15,6 +16,7 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
+Gumroad
 HackerNews
 Hashnode
 Houzz
