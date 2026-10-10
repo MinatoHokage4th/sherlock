@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -13,12 +12,11 @@ ChaturBate
 Codolio
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
-Gumroad
+GitHub
 HackerNews
 Hashnode
 Houzz
@@ -48,7 +46,6 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
-furaffinity
 hunting
 igromania
 interpals
@@ -57,4 +54,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
