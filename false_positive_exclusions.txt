@@ -1,11 +1,11 @@
 7Cups
 APClips
 Airliners
-Anilist
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -36,7 +36,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
@@ -53,4 +52,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
