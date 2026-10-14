@@ -26,7 +26,6 @@ Linktree
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -45,7 +44,6 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 fixya
 hunting
 interpals
@@ -54,4 +52,5 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+threads
 xHamster
