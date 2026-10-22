@@ -4,7 +4,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blipfoto
 CGTrader
 Championat
 Chatujme.cz
@@ -21,13 +20,12 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 Linktree
-Minecraft
+NationStates Nation
+NationStates Region
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -45,7 +43,6 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
-furaffinity
 hunting
 interpals
 mercadolivre
