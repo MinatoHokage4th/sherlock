@@ -14,7 +14,7 @@ Hashnode
 Hubski
 Instapaper
 Linktree
-LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -28,6 +28,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+TETR.IO
 Trakt
 TryHackMe
 Velomania
