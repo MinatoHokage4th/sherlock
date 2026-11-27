@@ -3,6 +3,8 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
+BoardGameGeek
 Chatujme.cz
 Codolio
 DeviantArt
@@ -14,8 +16,10 @@ Hashnode
 Hubski
 Instapaper
 Linktree
+Minecraft
 ObservableHQ
 Odysee
+OurDJTalk
 PCGamer
 Rarible
 Realmeye
